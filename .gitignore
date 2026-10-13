@@ -1,0 +1,11 @@
+﻿# Entornos virtuales
+.venv/
+venv/
+env/
+# Bytecode y cachés
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+# Secretos: NUNCA se suben
